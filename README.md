@@ -10,5 +10,5 @@ Features:
 
 Console \& RCON Commands:
 
-* RA.Reload (Reload the config)
-* RA.Reward <steam\_id> <reward\_id\_from\_config> (Gives everything configured for a reward to the player)
+* RE.Reload (Reload the config)
+* RE.Reward <steam\_id> <reward\_id\_from\_config> (Gives everything configured for a reward to the player)
